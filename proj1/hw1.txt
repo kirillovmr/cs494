@@ -1,0 +1,17 @@
+1: 141
+2: d8:96:95:01:a5:c9
+3: 176-5516059-0295403
+4: www.map.wisc.edu
+5: adventures in Stochastic Processes
+
+7: cs155@dummymail.com
+8: whitehat
+9: 5
+
+11: tcpdump src 131.253.40.84 -n -r trace1.pcap
+12: tcpdump dst port 80 -n -r trace1.pcap
+13: tcpdump arp -n -r trace1.pcap
+14: tcpdump dst 74.125.225.81 and dst port 443 -n -r trace1.pcap
+15: 22,25,80,443
+16: nmap -sU scannme.insecure.org
+17: CentOS
