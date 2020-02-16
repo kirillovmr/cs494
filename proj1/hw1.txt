@@ -14,4 +14,4 @@
 14: tcpdump dst 74.125.225.81 and dst port 443 -n -r trace1.pcap
 15: 22,25,80,443
 16: nmap -sU scannme.insecure.org
-17: CentOS
+17: Linux 2.6.X
