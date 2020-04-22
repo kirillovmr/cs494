@@ -1,0 +1,4 @@
+Firstly, I created a basic proxy server which was able to forward http and https requests using the following resourse as a guide: https://www.geeksforgeeks.org/creating-a-proxy-webserver-in-python-set-1/
+After I started implementing both active and passive modes.
+For passive mode I'm basically extracting any relevant data from both outgoing and incoming requests and storing them in info_1.txt file.
+For active mode I created a small JavaScript code that is injected before the HTML </body> tag which sends the data back to the proxy which handles it and stores all the data in indo_2.txt file.

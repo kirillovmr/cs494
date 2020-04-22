@@ -1,0 +1,24 @@
+Request to b'34net9.cs.uic.edu'
+Cookie: sb=uafp6btndtnftddrg0wx; pq=gnq4jx5xneff2vj1jd6swf; secret=nyqolwwrlvk2f3cxyh3iz6; OptanonConsent=landingPath=https%3A%2F%2Fcs.uic.edu%2F&datestamp=Sun+Apr+12+2020+20%3A27%3A43+GMT-0500+(Central+Daylight+Time)&version=3.6.25&groups=1%3A1%2C2%3A1%2C3%3A1%2C4%3A1%2C0_135985%3A1%2C0_135983%3A1%2C0_135981%3A1%2C0_135979%3A1%2C0_135977%3A1%2C0_135975%3A1%2C0_135973%3A1%2C0_135971%3A1%2C0_135969%3A1%2C0_135967%3A1%2C0_135965%3A1%2C0_135963%3A1%2C0_135994%3A1%2C0_135992%3A1%2C0_135990%3A1%2C0_135988%3A1%2C0_135986%3A1%2C0_135984%3A1%2C0_135982%3A1%2C0_135980%3A1%2C0_135978%3A1%2C0_135976%3A1%2C0_135974%3A1%2C0_135972%3A1%2C0_135970%3A1%2C0_135968%3A1%2C0_135966%3A1%2C0_135964%3A1%2C0_135993%3A1%2C0_135991%3A1%2C0_135989%3A1%2C0_135987%3A1
+firstname:Viktor2
+lastname:Kirillov
+state:IL
+zip:33344 
+
+================================================================================
+
+Request to client
+Cookie: sb=a14rau2rot96jw3jw25bya; Path=/; Expires=Sun, 19 Apr 2020 22:37:32 GMT; HttpOnly
+
+================================================================================
+
+Request to client
+Cookie: pq=hbbysgp4v534lec1ngkcf; Path=/; Expires=Sun, 19 Apr 2020 22:37:32 GMT; HttpOnly
+
+================================================================================
+
+Request to client
+Cookie: secret=frahufjo70tda8ygpmn5pt; Path=/; Expires=Sun, 19 Apr 2020 22:37:32 GMT; HttpOnly
+
+================================================================================
+

@@ -1,0 +1,4 @@
+I was firstly trying to create the permutation function which creates all possible combinations of sequenced English letters. Unfortunately, the best time complexity I get was awful.
+Then I tried to create a function that would map frequent letters in encoded text within a given range to frequent letters in English alphabet. That algorithm performed great for the range of 1 and 2 letters in both sides, but that didn't give me a correct mapping. And running that algorithm for the range > 2 goes beyond the appropriate time complexity. Maybe that's because if was recursive, anyway, at least I tried.
+The only option left is to decode the given message by hand, and the description on how I approached that task is in the analysis.py file.
+Resource used: https://www.dcode.fr/words-containing
